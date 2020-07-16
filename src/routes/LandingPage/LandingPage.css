@@ -1,0 +1,56 @@
+.landing {
+  display: flex;
+  flex-direction: column;
+}
+
+.heading {
+  text-align: center;
+  font-weight: 700;
+  font-size: 20px;
+  color: black;
+  border-bottom: 2px solid #277500;
+}
+
+.cred {
+  color: #277500;
+  text-align: center;
+}
+
+.how-to-use {
+  margin: 5px auto;
+  border: 3px solid  #277500;
+  border-radius: 4px;
+  width: 80%;
+  padding: 5px;
+}
+
+img {
+  width: 100%;
+}
+
+@media only screen and (min-width: 769px) {
+  .landing {
+    flex-flow: row wrap;
+  }
+  .how-to-use {
+    width: 48%;
+    margin: 5px 1%;
+  }
+}
+
+@media only screen and (min-width: 1140px) {
+  .landing {
+    flex-direction: row;
+    flex-wrap: nowrap;
+  }
+  .how-to-use {
+    margin: 10px 10px;
+    border: 3px solid  #277500;
+    border-radius: 4px;
+    width: 25%;
+    padding: 5px;
+  }
+  .heading {
+    height: 60px;
+  } 
+}

@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "alias": "origin-app",
+  "name": "origin-app",
+  "routes": [
+      {
+        "src": "^/static/(.*)",
+        "dest": "/static/$1"
+      },
+      {
+        "src": "^/favicon.ico$",
+        "dest": "/favicon.ico"
+      },
+      {
+        "src": ".*",
+        "dest": "/index.html"
+      }
+  ]
+}
