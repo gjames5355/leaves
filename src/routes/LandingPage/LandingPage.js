@@ -5,7 +5,7 @@ export default class LandingPage extends React.Component {
   render() {
     return (
       <article>
-        <h2>Origin helps you to keep track of your family history.</h2>
+        <h2>Leaves allows you to track your entire family history.</h2>
         <div className="landing">
           <section className="how-to-use">
             <h3 className="heading">Register an account</h3>

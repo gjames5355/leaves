@@ -1,5 +1,5 @@
 # Leaves
-- Live version: https://origin-app.now.sh (access app with username: joe, password: Joe2joe!)
+- Live version: https://leaves-pi.vercel.app (access app with username: joe, password: Joe2joe!)
 - Required Origin API:
   - Live: https://murmuring-reef-29838.herokuapp.com
   - Repository: https://github.com/gjames5355/leaves/tree/master/src
