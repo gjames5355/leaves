@@ -1,11 +1,11 @@
-# Origin
+# Leaves
 - Live version: https://origin-app.now.sh (access app with username: joe, password: Joe2joe!)
 - Required Origin API:
   - Live: https://murmuring-reef-29838.herokuapp.com
-  - Repository: https://github.com/yulia-kh/origin-api
+  - Repository: https://github.com/gjames5355/leaves/tree/master/src
 
 ## Description
-Origin is a family tree software that makes it easy to organize and visualize your family relationships. Create an account and start adding your ancestors. Enjoy the view!
+Leaves is family tree software that makes visualizing and organizing family relationships. Create an account and start adding your ancestors. Look at your family's legacy!
 
 ## Getting Started
 - Clone the repository and run `npm i`
